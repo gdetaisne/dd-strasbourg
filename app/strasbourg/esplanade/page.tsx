@@ -50,5 +50,5 @@ const strasbourgEsplanadeData = {
 };
 
 export default function StrasbourgEsplanadePage() {
-  return <LocalPage data={strasbourgEsplanadeData} />;
+  return <LocalPage {...strasbourgEsplanadeData} />;
 }

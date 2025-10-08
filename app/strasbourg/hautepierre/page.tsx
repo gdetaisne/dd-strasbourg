@@ -50,5 +50,5 @@ const strasbourgHautepierreData = {
 };
 
 export default function StrasbourgHautepierrePage() {
-  return <LocalPage data={strasbourgHautepierreData} />;
+  return <LocalPage {...strasbourgHautepierreData} />;
 }

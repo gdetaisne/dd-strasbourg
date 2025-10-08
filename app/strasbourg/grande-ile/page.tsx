@@ -50,5 +50,5 @@ const strasbourgGrandeleData = {
 };
 
 export default function StrasbourgGrandelePage() {
-  return <LocalPage data={strasbourgGrandeleData} />;
+  return <LocalPage {...strasbourgGrandeleData} />;
 }

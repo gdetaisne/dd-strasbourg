@@ -50,5 +50,5 @@ const strasbourgCronenbourgData = {
 };
 
 export default function StrasbourgCronenbourgPage() {
-  return <LocalPage data={strasbourgCronenbourgData} />;
+  return <LocalPage {...strasbourgCronenbourgData} />;
 }

@@ -20,6 +20,8 @@ Tous nos guides spécialisés pour le stockage à Strasbourg :
 - [Prix garde-meuble Strasbourg 2025](/blog/garde-meuble-strasbourg/prix-garde-meuble-strasbourg-2025) : Tarifs actualisés
 - [Assurance garde-meuble](/blog/garde-meuble-strasbourg/assurance-demenageur-strasbourg) : Protection obligatoire
 
+Pour une estimation complète incluant garde-meuble et déménagement, consultez notre [guide prix déménagement Strasbourg](/blog/demenagement-strasbourg/prix-demenagement-strasbourg).
+
 ### Choisir son Box
 - [Taille box garde-meuble](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) : Bien dimensionner
 - [Self-stockage vs garde-meuble](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) : Quelle différence ?
@@ -51,7 +53,7 @@ La location d'un espace de stockage répond à de multiples situations que renco
 
 ### Pour les particuliers : libérez votre espace de vie
 
-**Déménagement temporaire** : Les délais entre la sortie de votre ancien logement rue du Vieux-Marché-aux-Poissons et l'entrée dans votre nouvelle maison à la Robertsau ne coïncident pas toujours. Un garde meuble permet de stocker temporairement l'intégralité de vos affaires pendant cette période de transition, sans stress ni urgence.
+**Déménagement temporaire** : Les délais entre la sortie de votre ancien logement rue du Vieux-Marché-aux-Poissons et l'entrée dans votre nouvelle maison à la Robertsau ne coïncident pas toujours. Un garde meuble permet de stocker temporairement l'intégralité de vos affaires pendant cette période de transition, sans stress ni urgence. Pour optimiser l'ensemble de vos coûts déménagement + stockage, consultez notre [guide déménagement pas cher Strasbourg](/blog/demenagement-strasbourg/demenagement-strasbourg-pas-cher).
 
 **Travaux et rénovation** : Rénover votre appartement dans le quartier de la Krutenau nécessite de vider plusieurs pièces. Plutôt que d'encombrer votre cave ou de solliciter famille et amis, un box de stockage sécurisé protège vos meubles de la poussière et des projections de peinture pendant toute la durée des travaux.
 

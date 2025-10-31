@@ -123,7 +123,7 @@ Au-delà du déménagement standard, vous pouvez avoir besoin de services compl�
 
 **Fourniture de matériel d'emballage** : Cartons, film bulle, papier kraft, housses, ruban adhésif... Si vous achetez ce matériel auprès du déménageur, prévoyez un budget de 50€ à 200€ selon le volume.
 
-**Garde-meuble temporaire** : Vos dates de sortie et d'entrée ne coïncident pas ? Un stockage temporaire s'impose. Les tarifs varient de 50€ à 300€ par mois selon le volume. Consultez notre guide complet **[garde meuble Strasbourg](#)** pour comprendre les coûts et les options.
+**Garde-meuble temporaire** : Vos dates de sortie et d'entrée ne coïncident pas ? Un stockage temporaire s'impose. Les tarifs varient de 50€ à 300€ par mois selon le volume. Pour comparer toutes les options de garde-meuble, consultez notre [guide garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet).
 
 **Aide à l'emballage et au déballage** : Si vous manquez de temps, l'équipe peut emballer vos affaires un ou plusieurs jours avant le déménagement. Ce service représente 200€ à 500€ supplémentaires selon le volume. Plus d'infos dans notre article **[aide déménagement Strasbourg](#)**.
 
@@ -263,7 +263,7 @@ Cette implication personnelle peut vous faire économiser 30 à 40% du tarif tot
 
 **Privilégiez la basse saison** : Entre octobre et avril, la demande est moins forte. Les déménageurs sont plus disponibles et proposent souvent des promotions ou des réductions. Un déménagement en novembre coûte souvent 20 à 25% moins cher qu'en juillet pour le même volume.
 
-Consultez nos **offres spéciales** dans l'article **[déménagement Strasbourg pas cher](#)**.
+Consultez notre [guide déménagement pas cher Strasbourg](/blog/demenagement-strasbourg/demenagement-strasbourg-pas-cher) pour découvrir toutes les astuces d'économies.
 
 ### 4. Obtenir des cartons gratuits
 

@@ -74,9 +74,11 @@ Nous avons conçu plusieurs formules pour répondre aux besoins de ceux qui souh
 
 **Tarif indicatif** : À partir de 300€ pour un studio, 600€ pour un T2, 900€ pour un T3 (déménagement local à Strasbourg)
 
+Pour une analyse complète des tarifs par formule, consultez notre [guide prix déménagement Strasbourg](/blog/demenagement-strasbourg/prix-demenagement-strasbourg).
+
 ### Location d'Utilitaire : Pour une autonomie maximale
 
-**Le principe** : Vous louez un camion ou une camionnette et gérez vous-même l'intégralité du déménagement, de l'emballage au transport en passant par le chargement. C'est la solution la plus économique, mais aussi la plus exigeante physiquement.
+**Le principe** : Vous louez un camion ou une camionnette et gérez vous-même l'intégralité du déménagement, de l'emballage au transport en passant par le chargement. C'est la solution la plus économique, mais aussi la plus exigeante physiquement. Pour tous les détails pratiques, consultez notre [guide location camion Strasbourg](/blog/demenagement-strasbourg/location-camion-demenagement-strasbourg).
 
 **Options disponibles** :
 - **Location simple** : Vous conduisez le véhicule vous-même

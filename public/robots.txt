@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Host
+Host: https://devis-demenageur-strasbourg.fr/
+
+# Sitemaps
+Sitemap: https://devis-demenageur-strasbourg.fr/sitemap.xml

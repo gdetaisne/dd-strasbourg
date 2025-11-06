@@ -337,8 +337,8 @@ const nextConfig = {
       // Pages services EXISTENT → PAS de redirection (metadata présentes)
       // { source: '/services/demenagement-standard-strasbourg', destination: '/services/', permanent: true }, // SUPPRIMÉ - page existe
       // { source: '/services/demenagement-economique-strasbourg', destination: '/services/', permanent: true }, // SUPPRIMÉ - page existe
-      { source: '/blog/demenagement-strasbourg/demenagement-piano', destination: '/blog/demenagement-piano-strasbourg/', permanent: true },
-      { source: '/blog/demenagement-strasbourg/demenagement-d-entreprise', destination: '/blog/demenagement-entreprise-strasbourg/', permanent: true },
+      { source: '/blog/demenagement-strasbourg/demenagement-piano', destination: '/blog/demenagement-strasbourg/demenagement-piano-strasbourg', permanent: true },
+      { source: '/blog/demenagement-strasbourg/demenagement-d-entreprise', destination: '/blog/demenagement-strasbourg/demenagement-d-entreprise-strasbourg', permanent: true },
 
       // WILDCARDS CATCH-ALL (TASK-LEADGEN-02 - COMPLETS)
       { source: '/blog/garde-meuble/:slug*', destination: '/blog/garde-meuble-strasbourg/:slug*', permanent: true },

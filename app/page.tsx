@@ -11,6 +11,7 @@ import Testimonials from "@/components/Testimonials";
 import NeighborhoodsTeaser from "@/components/NeighborhoodsTeaser";
 import StickyCTA from "@/components/StickyCTA";
 import LocalMoneyFAQ from "@/components/LocalMoneyFAQ";
+import StructuredData from "@/components/StructuredData";
 
 export const metadata: Metadata = (() => {
   const city = getCityDataFromUrl(env.SITE_URL);
@@ -27,6 +28,7 @@ export default function Home() {
   
   return (
     <main className="bg-hero">
+      <StructuredData />
       <div className="halo" />
       
       {/* 1. Hero (inclut déjà social proof) */}

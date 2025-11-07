@@ -39,7 +39,7 @@ export default function DemenagementStandardPage() {
               items={[
                 { label: "Accueil", href: "/" },
                 { label: "Services", href: "/services" },
-                { label: "Déménagement Standard", href: "/services/demenagement-standard-${city.slug}" }
+                { label: "Déménagement Standard", href: `/services/demenagement-standard-${city.slug}/` }
               ]}
             />
             <h1 className="mt-6 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">

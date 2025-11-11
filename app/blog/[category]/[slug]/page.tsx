@@ -4,8 +4,6 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { getCanonicalUrl } from '@/lib/canonical-helper';
-import { env } from '@/lib/env';
-import { getCityDataFromUrl } from '@/lib/cityData';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -125,41 +123,9 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
   
   const categoryLabel = categoryLabels[post.cleanCategory] || post.category;
 
-  const city = getCityDataFromUrl(env.SITE_URL);
-  const canonicalUrl = getCanonicalUrl(`blog/${params.category}/${params.slug}`);
-  const description = post.meta_description || post.description || `Découvrez nos conseils d'experts pour votre déménagement à ${city.nameCapitalized}.`;
-
-  const articleSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: post.title,
-    description,
-    mainEntityOfPage: canonicalUrl,
-    author: {
-      '@type': 'Organization',
-      name: `Déménageurs ${city.nameCapitalized} (IA)`,
-      url: city.siteUrl,
-    },
-    publisher: {
-      '@type': 'Organization',
-      '@id': `${city.siteUrl}/#organization`,
-      name: `Déménageurs ${city.nameCapitalized} (IA)`,
-      logo: {
-        '@type': 'ImageObject',
-        url: `${city.siteUrl}/icons/android-chrome-512x512.png`,
-        width: 512,
-        height: 512,
-      },
-    },
-    datePublished: post.publish_date,
-    dateModified: post.updated_at || post.publish_date,
-    url: canonicalUrl,
-  } as const;
-
   return (
     <main className="bg-hero min-h-screen">
       <div className="halo" />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-[#04163a] via-[#2b7a78] to-[#6bcfcf] text-white">

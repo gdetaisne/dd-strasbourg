@@ -1,5 +1,5 @@
 # Dockerfile multi-sites Moverz - strasbourg
-# Version canonique: 2025-11-07-1151
+# Version canonique: 2025-10-29
 #
 # ⚠️  WARNING: Ce fichier est généré depuis .templates/Dockerfile.template
 # ⚠️  NE PAS MODIFIER CE FICHIER DIRECTEMENT

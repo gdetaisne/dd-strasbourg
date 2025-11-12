@@ -21,12 +21,12 @@ Tous nos guides spécialisés pour le stockage à Strasbourg :
 - [Assurance garde-meuble](/blog/demenagement-strasbourg/assurance-demenageur-strasbourg) : Protection obligatoire
 
 ### Choisir son Box
-- [Taille box garde-meuble](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) : Bien dimensionner
-- [Self-stockage vs garde-meuble](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) : Quelle différence ?
+- [Taille box garde-meuble]() : Bien dimensionner
+- [Self-stockage vs garde-meuble]() : Quelle différence ?
 
 ### Accès et Services
-- [Accès 24/7 self-stockage](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) : Disponibilité horaire
-- [Garde-meuble température](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) : Climatisation
+- [Accès 24/7 self-stockage]() : Disponibilité horaire
+- [Garde-meuble température]() : Climatisation
 
 ### Solutions Spécifiques
 - [Garde-meuble étudiant](/blog/garde-meuble-strasbourg/garde-meuble-etudiant-strasbourg) : Offres jeunes

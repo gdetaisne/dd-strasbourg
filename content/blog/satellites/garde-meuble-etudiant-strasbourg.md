@@ -16,11 +16,11 @@ publish_date: "2025-01-22"
 author: "Équipe Moverz Strasbourg"
 ---
 
-Vous étudiez à Strasbourg, dans un studio de 15m² à Krutenau ou une chambre de 9m² à la cité U de l'Esplanade, et l'été approche. Retourner chez vos parents 3 mois est économique, mais que faire de vos meubles, cartons de cours et affaires saisonnières ? Sous-louer votre studio implique de vider entièrement, or vous n'avez ni cave ni grenier. Solution : le garde-meuble étudiant. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet).
+Vous étudiez à Strasbourg, dans un studio de 15m² à Krutenau ou une chambre de 9m² à la cité U de l'Esplanade, et l'été approche. Retourner chez vos parents 3 mois est économique, mais que faire de vos meubles, cartons de cours et affaires saisonnières ? Sous-louer votre studio implique de vider entièrement, or vous n'avez ni cave ni grenier. Solution : le garde-meuble étudiant. Pour une vue complète, consultez notre [guide complet garde-meuble Strasbourg]().
 
 Strasbourg compte 68 000 étudiants (11% de la population totale de 297 878 habitants), soit la 4ème ville étudiante de France. Chaque année, entre juin et septembre, des milliers d'entre vous stockent temporairement pour éviter de payer un loyer vide l'été (400-500€/mois) ou entre deux logements. Mais avec un budget serré (33% des moins de 30 ans sous le seuil de pauvreté à Strasbourg selon l'INSEE 2021, revenu médian 20 260€/an), chaque euro compte. Combien coûte réellement un garde-meuble étudiant à Strasbourg ? Existe-t-il des tarifs préférentiels ? Peut-on partager un box pour diviser les frais ?
 
-Ce guide spécial étudiants Strasbourg détaille les tarifs réels 2025 (40-90€/mois selon taille), les acteurs accessibles depuis les campus (Homebox Neudorf, Locakase), et 6 astuces pour économiser jusqu'à 50% sur votre stockage. Au-delà des tarifs étudiants détaillés ici, découvrez [toutes les solutions de garde-meuble à Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) (sécurité, types de box, services professionnels) dans notre guide complet.
+Ce guide spécial étudiants Strasbourg détaille les tarifs réels 2025 (40-90€/mois selon taille), les acteurs accessibles depuis les campus (Homebox Neudorf, Locakase), et 6 astuces pour économiser jusqu'à 50% sur votre stockage. Au-delà des tarifs étudiants détaillés ici, découvrez [toutes les solutions de garde-meuble à Strasbourg]() (sécurité, types de box, services professionnels) dans notre guide complet.
 
 ## Stockage Étudiant à Strasbourg : 4 Situations Courantes
 
@@ -301,5 +301,5 @@ Homebox et Locakase acceptent **locations courtes dès 1 mois minimum** (aucun e
 
 ---
 
-Ces fourchettes étudiantes et astuces vous permettent de stocker intelligemment à Strasbourg tout en préservant votre budget étudiant limité. Comparez systématiquement Homebox, Locakase et alternatives, partagez avec colocs si possible, et réservez dès juin pour sécuriser meilleur tarif. Si vous avez d'autres questions (objets interdits, conditions résiliation, matériel emballage), consultez nos [questions fréquentes sur le stockage à Strasbourg](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide#faq). Vous y trouverez 15+ réponses détaillées.
+Ces fourchettes étudiantes et astuces vous permettent de stocker intelligemment à Strasbourg tout en préservant votre budget étudiant limité. Comparez systématiquement Homebox, Locakase et alternatives, partagez avec colocs si possible, et réservez dès juin pour sécuriser meilleur tarif. Si vous avez d'autres questions (objets interdits, conditions résiliation, matériel emballage), consultez nos [questions fréquentes sur le stockage à Strasbourg](#faq). Vous y trouverez 15+ réponses détaillées.
 

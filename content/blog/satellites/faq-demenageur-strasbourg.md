@@ -76,7 +76,7 @@ Toutes questions déménageur Strasbourg : prix, délais réservation, autorisat
 
 **24. Comparer combien devis ?** Minimum 3 (idéal 5). Économie 100-300€ négociation.
 
-**25. Déménageur stockage ?** Certains proposent. Comparer [Homebox/Locakase](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-guide) souvent plus flexible.
+**25. Déménageur stockage ?** Certains proposent. Comparer [Homebox/Locakase](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) souvent plus flexible.
 
 ---
 

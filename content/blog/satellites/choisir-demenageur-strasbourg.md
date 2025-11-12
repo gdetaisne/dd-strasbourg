@@ -95,7 +95,7 @@ Conditions report/annulation variables :
 
 ### 9. Services Additionnels (Garde-Meuble, Cartons)
 
-**Garde-meuble** : Si décalage baux, certains déménageurs proposent stockage entrepôt propre. Comparer avec [Homebox/Locakase](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-guide) (souvent plus flexible).
+**Garde-meuble** : Si décalage baux, certains déménageurs proposent stockage entrepôt propre. Comparer avec [Homebox/Locakase](/blog/garde-meuble-strasbourg/garde-meuble-strasbourg-guide-complet) (souvent plus flexible).
 
 **Cartons/matériel** : Fourniture cartons (1-2€/unité), location cartons réutilisables (0,50€/unité), matériel emballage (papier bulle, scotch). Inclus formule clé en main, optionnel formule éco.
 

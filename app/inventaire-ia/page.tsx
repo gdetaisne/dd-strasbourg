@@ -3,17 +3,12 @@
 import React from 'react';
 import { getBuildInfo } from '@/lib/buildInfo';
 import { event as gaEvent } from '@/lib/ga4';
-<<<<<<< HEAD
-
-export default function InventaireIAPage() {
-=======
 import { getCityDataFromUrl } from '@/lib/cityData';
 import { env } from '@/lib/env';
 import PhotoGuidelines from '@/components/PhotoGuidelines';
 
 export default function InventaireIAPage() {
   const city = getCityDataFromUrl(env.SITE_URL);
->>>>>>> 0b3f11c (feat: Wording refonte + Metadata SEO alignées (2025-01-12))
   
   const handleEstimateClick = () => {
     gaEvent('estimate_cost_click', {

@@ -44,6 +44,10 @@ const nextConfig = {
   // Redirections pour corriger les 404s
   async redirects() {
     const existing = [
+      // VAGUE 2 – Migration homepage domaine → page ville moverz.fr
+      { source: '/', destination: 'https://moverz.fr/demenagement/strasbourg/', permanent: true },
+
+      // Redirections historiques
       // ========================================
       // 1. CORRECTION MAJUSCULES (Case-sensitivity)
       // ========================================

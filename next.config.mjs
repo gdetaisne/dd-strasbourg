@@ -47,6 +47,12 @@ const nextConfig = {
       // VAGUE 2 – Migration homepage domaine → page ville moverz.fr
       { source: '/', destination: 'https://moverz.fr/demenagement/strasbourg/', permanent: true },
 
+      // MIGRATION BLOG → moverz.fr
+      { source: '/blog', destination: 'https://moverz.fr/blog/', permanent: true },
+      { source: '/blog/', destination: 'https://moverz.fr/blog/', permanent: true },
+      // Nouvelle structure /blog/demenagement-strasbourg/{slug} → moverz.fr/blog/{slug}
+      { source: '/blog/demenagement-strasbourg/:slug*', destination: 'https://moverz.fr/blog/:slug*', permanent: true },
+
       // Redirections historiques
       // ========================================
       // 1. CORRECTION MAJUSCULES (Case-sensitivity)

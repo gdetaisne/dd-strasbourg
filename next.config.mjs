@@ -1,4 +1,4 @@
-import { getMoverzBlogRedirectsForHost } from './scripts/blog-moverz-redirects.mjs';
+import { getMoverzBlogRedirectsForHost } from '../../scripts/blog-moverz-redirects.mjs';
 
 const HOST = 'devis-demenageur-strasbourg.fr';
 
@@ -39,8 +39,12 @@ const nextConfig = {
   async redirects() {
     const existing = [
       // Homepage → Page ville moverz.fr
+      { source: '/', destination: 'https://moverz.fr/demenagement/strasbourg/', permanent: true },
       // Blog hub → moverz.fr
+      { source: '/blog', destination: 'https://moverz.fr/blog/', permanent: true },
+      { source: '/blog/', destination: 'https://moverz.fr/blog/', permanent: true },
       // Blog articles → moverz.fr
+      { source: '/blog/demenagement-strasbourg/:slug*', destination: 'https://moverz.fr/blog/:slug*', permanent: true },
       // Quartiers strasbourg (6 pages)
       { source: '/strasbourg/', destination: 'https://moverz.fr/strasbourg/', permanent: true },
       { source: '/strasbourg/cronenbourg/', destination: 'https://moverz.fr/strasbourg/cronenbourg/', permanent: true },
@@ -49,6 +53,7 @@ const nextConfig = {
       { source: '/strasbourg/hautepierre/', destination: 'https://moverz.fr/strasbourg/hautepierre/', permanent: true },
       { source: '/strasbourg/neudorf/', destination: 'https://moverz.fr/strasbourg/neudorf/', permanent: true },
       // Hub quartiers strasbourg
+      { source: '/quartiers-strasbourg/', destination: 'https://moverz.fr/quartiers-strasbourg/', permanent: true },
       // Corridors depuis strasbourg (6 pages)
       { source: '/strasbourg-vers-espagne/', destination: 'https://moverz.fr/strasbourg-vers-espagne/', permanent: true },
       { source: '/strasbourg-vers-lyon/', destination: 'https://moverz.fr/strasbourg-vers-lyon/', permanent: true },
